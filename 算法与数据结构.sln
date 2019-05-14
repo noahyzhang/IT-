@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法与数据结构", "算法与数据结构\算法与数据结构.vcxproj", "{650A03FA-4C98-4B81-A273-9CE6D2B3765C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Debug|x64.ActiveCfg = Debug|x64
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Debug|x64.Build.0 = Debug|x64
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Debug|x86.ActiveCfg = Debug|Win32
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Debug|x86.Build.0 = Debug|Win32
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Release|x64.ActiveCfg = Release|x64
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Release|x64.Build.0 = Release|x64
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Release|x86.ActiveCfg = Release|Win32
+		{650A03FA-4C98-4B81-A273-9CE6D2B3765C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE97C60-3451-4BB6-B808-36FB6F4B8A8F}
+	EndGlobalSection
+EndGlobal
