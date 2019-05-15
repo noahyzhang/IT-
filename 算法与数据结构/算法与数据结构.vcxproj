@@ -116,12 +116,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="两个链表生成相加链表.cpp" />
+    <ClCompile Include="二叉树的前中后序遍历.cpp" />
     <ClCompile Include="删除无序单链表中值重复出现的节点.cpp" />
     <ClCompile Include="判断一个链表是否为回文结构.cpp" />
     <ClCompile Include="单调栈.cpp" />
     <ClCompile Include="将单向链表按某值划分成左边小、中间相等、右边大的形式.cpp" />
+    <ClCompile Include="斐波那契数列的递归和动态规划.cpp" />
+    <ClCompile Include="机器人达到指定位置方法数.cpp" />
     <ClCompile Include="环形单链表的约瑟夫环问题.cpp" />
     <ClCompile Include="生成窗口的最大值数组.cpp" />
+    <ClCompile Include="矩阵的最小路径和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

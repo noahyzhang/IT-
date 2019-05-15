@@ -28,17 +28,40 @@ public:
 	}
 };
 
-void RemoveRep(Node*& head)
+Node* RemoveRep(Node*& head)
 {
-	std::set<Node*> st;
-	while (head != nullptr)
+	std::set<int> st;
+	Node* tmp = head;
+	while (tmp != nullptr)
 	{
-		st.insert(head);
-		head = head->next;
+		st.insert(tmp->val);
+		tmp = tmp->next;
 	}
+	tmp = head;
+	Node* pre = nullptr;
 	for (auto it = st.begin(); it != st.end(); ++it)
 	{
-		(*it)->next = *(++it);
+		tmp->val = *it;
+		pre = tmp;
+		tmp = tmp->next;
 	}
-		
+	pre->next = nullptr;
+	return head;
 }
+
+#if 0
+int main()
+{
+	std::vector<int> vec{ 1,2,3,3,4,4,2,1,1 };
+	Node node;
+	Node* head = node.GetList(vec);
+	head = RemoveRep(head);
+	while (head != nullptr)
+	{
+		std::cout << head->val << " ";
+		head = head->next;
+	}
+	system("pause");
+	return 0;
+}
+#endif
