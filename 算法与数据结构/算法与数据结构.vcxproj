@@ -127,6 +127,7 @@
     <ClCompile Include="判断一个链表是否为回文结构.cpp" />
     <ClCompile Include="剪绳子.cpp" />
     <ClCompile Include="单调栈.cpp" />
+    <ClCompile Include="各种排序.cpp" />
     <ClCompile Include="将单向链表按某值划分成左边小、中间相等、右边大的形式.cpp" />
     <ClCompile Include="打印从1到最大的n位数.cpp" />
     <ClCompile Include="换钱的最少货币.cpp" />
@@ -137,12 +138,15 @@
     <ClCompile Include="替换空格.cpp" />
     <ClCompile Include="机器人的运动范围.cpp" />
     <ClCompile Include="机器人达到指定位置方法数.cpp" />
+    <ClCompile Include="测试内存.cpp" />
     <ClCompile Include="环形单链表的约瑟夫环问题.cpp" />
     <ClCompile Include="生成窗口的最大值数组.cpp" />
     <ClCompile Include="矩阵的最小路径和.cpp" />
     <ClCompile Include="矩阵的路径.cpp" />
     <ClCompile Include="表示数值的字符串.cpp" />
+    <ClCompile Include="调整数组顺序使奇数位于偶数前面.cpp" />
     <ClCompile Include="赋值运算符函数.cpp" />
+    <ClCompile Include="链表中倒数第K个节点.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
