@@ -111,5 +111,29 @@
     <ClCompile Include="测试内存.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组的改变.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="出入栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找两个有序数组的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cast.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数反转（未完）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cin+cout.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
