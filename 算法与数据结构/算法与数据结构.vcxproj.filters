@@ -135,5 +135,32 @@
     <ClCompile Include="cin+cout.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串转成整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="盛最多水的容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="罗马数字与数值之间的转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最接近的三数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="电话号码的组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="括号生成.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并K个有序链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

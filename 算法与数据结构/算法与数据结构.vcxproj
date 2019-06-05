@@ -118,6 +118,7 @@
     <ClCompile Include="cast.cpp" />
     <ClCompile Include="cin+cout.cpp" />
     <ClCompile Include="Singleton.cpp" />
+    <ClCompile Include="三数之和.cpp" />
     <ClCompile Include="两个排序数组的合并.cpp" />
     <ClCompile Include="两个链表生成相加链表.cpp" />
     <ClCompile Include="二叉树代码.cpp" />
@@ -130,6 +131,9 @@
     <ClCompile Include="剪绳子.cpp" />
     <ClCompile Include="单调栈.cpp" />
     <ClCompile Include="各种排序.cpp" />
+    <ClCompile Include="合并K个有序链表.cpp" />
+    <ClCompile Include="四数之和.cpp" />
+    <ClCompile Include="字符串转成整数.cpp" />
     <ClCompile Include="寻找两个有序数组的中位数.cpp" />
     <ClCompile Include="将单向链表按某值划分成左边小、中间相等、右边大的形式.cpp" />
     <ClCompile Include="出入栈.cpp" />
@@ -142,14 +146,19 @@
     <ClCompile Include="整数反转（未完）.cpp" />
     <ClCompile Include="斐波那契数列的递归和动态规划.cpp" />
     <ClCompile Include="替换空格.cpp" />
+    <ClCompile Include="最接近的三数之和.cpp" />
     <ClCompile Include="最长回文子串.cpp" />
+    <ClCompile Include="括号生成.cpp" />
     <ClCompile Include="机器人的运动范围.cpp" />
     <ClCompile Include="机器人达到指定位置方法数.cpp" />
     <ClCompile Include="测试内存.cpp" />
     <ClCompile Include="环形单链表的约瑟夫环问题.cpp" />
     <ClCompile Include="生成窗口的最大值数组.cpp" />
+    <ClCompile Include="电话号码的组合.cpp" />
+    <ClCompile Include="盛最多水的容器.cpp" />
     <ClCompile Include="矩阵的最小路径和.cpp" />
     <ClCompile Include="矩阵的路径.cpp" />
+    <ClCompile Include="罗马数字与数值之间的转换.cpp" />
     <ClCompile Include="表示数值的字符串.cpp" />
     <ClCompile Include="调整数组顺序使奇数位于偶数前面.cpp" />
     <ClCompile Include="赋值运算符函数.cpp" />
