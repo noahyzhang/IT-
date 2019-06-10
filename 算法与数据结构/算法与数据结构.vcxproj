@@ -115,12 +115,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C++11.cpp" />
     <ClCompile Include="cast.cpp" />
     <ClCompile Include="cin+cout.cpp" />
+    <ClCompile Include="K个一组翻转链表.cpp" />
     <ClCompile Include="Singleton.cpp" />
     <ClCompile Include="三数之和.cpp" />
+    <ClCompile Include="下一个排列.cpp" />
+    <ClCompile Include="两两交换链表中的节点.cpp" />
     <ClCompile Include="两个排序数组的合并.cpp" />
     <ClCompile Include="两个链表生成相加链表.cpp" />
+    <ClCompile Include="两数相除.cpp" />
     <ClCompile Include="二叉树代码.cpp" />
     <ClCompile Include="二叉树的前中后序遍历.cpp" />
     <ClCompile Include="二维数组中查找.cpp" />
@@ -134,16 +139,19 @@
     <ClCompile Include="合并K个有序链表.cpp" />
     <ClCompile Include="四数之和.cpp" />
     <ClCompile Include="字符串转成整数.cpp" />
+    <ClCompile Include="实现strStr.cpp" />
     <ClCompile Include="寻找两个有序数组的中位数.cpp" />
     <ClCompile Include="将单向链表按某值划分成左边小、中间相等、右边大的形式.cpp" />
     <ClCompile Include="出入栈.cpp" />
     <ClCompile Include="打印从1到最大的n位数.cpp" />
     <ClCompile Include="换钱的最少货币.cpp" />
     <ClCompile Include="快速排序.cpp" />
+    <ClCompile Include="搜索旋转排序数组.cpp" />
     <ClCompile Include="数值的整数次方.cpp" />
     <ClCompile Include="数组中重复的数字.cpp" />
     <ClCompile Include="数组的改变.cpp" />
     <ClCompile Include="整数反转（未完）.cpp" />
+    <ClCompile Include="文件输入输出练习.cpp" />
     <ClCompile Include="斐波那契数列的递归和动态规划.cpp" />
     <ClCompile Include="替换空格.cpp" />
     <ClCompile Include="最接近的三数之和.cpp" />

@@ -162,5 +162,29 @@
     <ClCompile Include="合并K个有序链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="两两交换链表中的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="K个一组翻转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实现strStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="文件输入输出练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C++11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两数相除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="下一个排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="搜索旋转排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
