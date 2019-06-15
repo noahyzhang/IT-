@@ -116,7 +116,8 @@ private:
 		return 0;
 	}
 };
-#if
+
+#if 0
 int main()
 {
 	Solution sn;

@@ -160,6 +160,7 @@
     <ClCompile Include="机器人的运动范围.cpp" />
     <ClCompile Include="机器人达到指定位置方法数.cpp" />
     <ClCompile Include="测试内存.cpp" />
+    <ClCompile Include="源.cpp" />
     <ClCompile Include="环形单链表的约瑟夫环问题.cpp" />
     <ClCompile Include="生成窗口的最大值数组.cpp" />
     <ClCompile Include="电话号码的组合.cpp" />
