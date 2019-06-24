@@ -138,6 +138,8 @@
     <ClCompile Include="各种排序.cpp" />
     <ClCompile Include="合并K个有序链表.cpp" />
     <ClCompile Include="四数之和.cpp" />
+    <ClCompile Include="在排序数组中查找数字第一次和最后一次的位置.cpp" />
+    <ClCompile Include="字符串相乘.cpp" />
     <ClCompile Include="字符串转成整数.cpp" />
     <ClCompile Include="实现strStr.cpp" />
     <ClCompile Include="寻找两个有序数组的中位数.cpp" />
